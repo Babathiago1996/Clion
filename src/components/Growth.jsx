@@ -34,11 +34,11 @@ const boxs = [
 const Growth = () => {
   return (
     <div className="layout px-4 py-8 ">
-      <div className="mx-auto h-[131px] w-full max-w-[707px] mb-10 text-center ">
+      <div className="mx-auto h-[131px] w-full max-w-[707px] mb-12 lg:mb-8 text-center ">
         <h1 className="  text-[32px] md:text-[45px] font-[500] font-[satoshi] text-black">
           Creating efficient financial growth
         </h1>
-        <p className="text-[17px] text-center md:text-[22px] font-[400] mb-9 lg:mb-0 lg:mt-2">
+        <p className="text-[17px] text-center md:text-[22px] font-[400] mb-10  lg:mb-0 lg:mt-2">
           Empower yourself with expert insights, practical strategies, and the
           tools to take control of your financial future.
         </p>
