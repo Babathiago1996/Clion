@@ -43,7 +43,7 @@ const Growth = () => {
           tools to take control of your financial future.
         </p>
       </div>
-      <div className="flex flex-col lg:flex-row items-center gap-6 justify-center mt-2git">
+      <div className="flex flex-col lg:flex-row items-center gap-6 justify-center mt-4 lg:mt-0 ">
         {boxs.map((box, index) => {
           return (
             <div
