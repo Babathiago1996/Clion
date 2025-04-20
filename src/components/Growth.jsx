@@ -38,7 +38,7 @@ const Growth = () => {
         <h1 className="  text-[32px] md:text-[45px] font-[500] font-[satoshi] text-black">
           Creating efficient financial growth
         </h1>
-        <p className="text-[18px] text-center md:text-[22px] font-[400] mt-2">
+        <p className="text-[18px] text-center md:text-[22px] font-[400] mt-5 lg:mt-2">
           Empower yourself with expert insights, practical strategies, and the
           tools to take control of your financial future.
         </p>
