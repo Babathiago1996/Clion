@@ -7,7 +7,7 @@ import before from "../assets/before.png"
 const Footer = () => {
   return (
     <div className="bg-black mt-8 px-4 py-8 ">
-      <div className="layout flex-col flex lg:flex-row justify-between gap-10 max-w-7xl ">
+      <div className="layout flex-col flex lg:flex-row justify-between gap-10 ">
         <div className="flex flex-col justify-between items-center lg:items-start gap-4">
           <img src={img} alt="clion" className='w-[120px] lg:w-[160px]' />
 

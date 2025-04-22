@@ -11,7 +11,7 @@ function App() {
 
   return (
     <>
-      <div className='container h-screen max-h-[628px] bg-no-repeat bg-cover mx-auto relative '>
+      <div className='hero h-screen max-h-[628px] bg-no-repeat bg-cover mx-auto relative '>
         <NavBar />
         <Hero />
       </div>
